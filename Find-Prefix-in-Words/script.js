@@ -59,3 +59,4 @@ var isPrefixOfWord = function(sentence, searchWord) {
 
 
 // eğer hiçbi kelime eşleşmezse -1 döndürüyoruz => return -1;
+
